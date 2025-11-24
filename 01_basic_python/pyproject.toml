@@ -1,0 +1,10 @@
+[project]
+name = "01-basic-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.0.8",
+    "langgraph>=1.0.3",
+]
